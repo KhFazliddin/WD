@@ -1,0 +1,256 @@
+.Top{
+  background-color: #EEEFF1;
+}
+.WD{
+  color: #34547A;;
+}
+
+.app_container {
+  max-width: 1240px;
+  padding: 0 20px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.App {
+  text-align: center;
+}
+
+.Header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Header-links {
+  color: #000000;
+  display: flex;
+  text-decoration: none;
+  margin-right: 100px;
+}
+
+.Header-links a {
+  margin-left: 42px;
+  text-decoration: none;
+}
+
+.computer{
+  width: 320px;
+  height: 225px;
+}
+
+h1{
+  font-family: Revalia;
+  color: black;
+}
+.Maindesign{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.video{
+width: 480px;
+height: 380px;
+display: flex;
+margin-left: 400px;
+}
+.RightDesign{
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+
+.Design {
+  top: 257px;
+  left: 974px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px
+}
+.Lorem{
+  font-style: 16px;
+  line-height: 26px;
+  padding-left: 100px;
+  text-align: start;
+  color: #727272;
+}
+.Write {
+  width: 225px;
+  height: 65px;
+  background: #34547A;
+  color: white;
+  margin-left: 130px;
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
+.aboutme{
+  display: flex;
+  justify-content: center;
+}
+.About{
+  font-size: 32px;
+}
+.Lorem2{
+  width: 540px;
+  height: 67px;
+  font-size: 16px;
+  justify-content: center;
+  color: #727272;
+}
+main{
+  position: relative;
+}
+.Plan{
+height: 250px;
+background: #34547A;
+display: flex;
+justify-content: space-around;
+}
+.Planproject{
+display: flex;
+margin-top: 80px;
+}
+.project {
+width: 47px;
+height: 50px;
+}
+.img2text{
+  color: #FFFFFF;
+}
+.Adobe {
+  width: 50%;
+  margin-top: 100px;
+  justify-content: space-between;
+  display: flex;
+}
+.Myself{
+  position: relative;
+  margin-left: 150px;
+}
+.Myself h1{
+  color: black;
+}
+.Stick{
+  width: 400px;
+  position: relative;
+}
+
+.Man{
+  width: 450px;
+height: 320px;
+display: flex;
+margin-left: 100px;
+}
+.container{
+  height: 700px;
+  margin-top: 80px;
+  background: #EEEFF1;
+  position: relative;
+}
+.workcont{
+  display: flex;
+  justify-content: center;
+}
+.work{
+padding-top: 100px;
+}
+.Lorem3{
+  width: 540px;
+  height: 67px;
+  font-size: 16px;
+  justify-content: center;
+  color: #727272;
+}
+.wall{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+.wallimage{
+  width: 360px;
+  height: 360px;
+}
+.microsoftimg{
+  display: flex;
+  justify-content: center;
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+.microsoft{
+  width: 255px;
+  height: 120px;
+}
+.conclusion{
+  height: 700px;
+  background: #EEEFF1;
+  padding-top: 80px;
+}
+.personal{
+  display: flex;
+justify-content: center;
+}
+.Lorem4{
+  font-size: 16px;
+  color: #727272;
+  text-align: center;
+  width: 540px;
+  height: 67px;
+}
+.request{
+  position: relative;
+  padding-top: 50px;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+}
+.type{
+  max-width: 540px;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.send{
+  width: 190px;
+  height: 55px;
+  color: #FFFFFF;
+  background: #34547A;
+  margin-top: 50px;
+}
+.sms{
+  max-width: 540px;
+  width: 100%;
+  height: 200px;
+}
+.contact{
+  height: 151px;
+  background: #34547A;
+}
+.pername{
+  color: #FFFFFF;
+  text-align: start;
+}
+.wk{
+  width: 44px;
+  height: 23px;
+}
+.type input{
+  width: 45%;
+    height: 50px;
+}
+
+.last {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 40px;
+}
+
+
+
+
+
+
+
+
